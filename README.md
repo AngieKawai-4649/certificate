@@ -1,6 +1,6 @@
 Visual studio 2022 を使用した自己署名 (FSUSB2N SANPAKUN)
 
-以下、SANPAKUNを例に記述するがFSUSVB2Nはそれぞれの箇所を読み替えること
+以下、SANPAKUNを例に記述するがFSUSB2Nはそれぞれの箇所を読み替えること
 
 １．Visual Studio 2022 コミュニティ(C++によるデスクトップ開発)のインストール
 
